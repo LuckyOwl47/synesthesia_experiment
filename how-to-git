@@ -1,0 +1,6 @@
+# How to Git 101 (barely)
+
+git add <file> - (add file to staging area)
+git commit -m "I changed X to resolve the issue with Y" 
+git push (push the changes to the active branch)
+
